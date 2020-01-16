@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Prescribtion</name>
+   <name>Prescribe_Button</name>
    <tag></tag>
-   <elementGuidId>87950d04-d425-45e3-8550-bb743fd20fce</elementGuidId>
+   <elementGuidId>8ff585fe-be3a-46d5-be70-4658ed627dbc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,9 +11,9 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//input[@value='Add prescription']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>
