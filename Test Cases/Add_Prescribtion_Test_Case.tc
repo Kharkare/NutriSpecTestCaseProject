@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case to test add prescribtion</description>
+   <name>Add_Prescribtion_Test_Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c40634a-cf37-45b5-a46d-72c7dcf82f37</testCaseGuid>
+</TestCaseEntity>
