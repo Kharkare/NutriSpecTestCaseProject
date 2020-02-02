@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Nikhil Gosavi')]/parent::div/parent::div/parent::div/parent::div/div[3]/a[contains(text(),'Prescribe')]</value>
+         <value>//a[contains(text(),'Sumeet Phadtare')]/parent::div/parent::div/parent::div/parent::div/div[3]/a[contains(text(),'Prescribe')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

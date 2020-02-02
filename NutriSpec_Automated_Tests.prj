@@ -6,6 +6,7 @@
    <UUID>e947e418-a5b0-48af-8557-f372f958ab3a</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/home/kunal/NutriSpec_Automated_Tests/NutriSpec_Automated_Tests/NutriSpec_Automated_Tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
