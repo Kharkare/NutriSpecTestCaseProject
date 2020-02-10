@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Enroll_Add_Prescription</name>
+   <name>Enroll_Add_Prescription_Unroll</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -21,5 +21,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3e9a9d08-3065-4ffd-abcd-870d64f2f4a7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Nutrtionist Test Case/Unroll_With_Client</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
