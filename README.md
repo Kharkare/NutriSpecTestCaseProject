@@ -25,6 +25,7 @@ This project assumes NutriSpec is up and running in local ddev environment.
 1. Login to [Katalon Store](https://store.katalon.com/signin) with your Katalon account.
 2. Open [Basic Report](https://store.katalon.com/product/59/Basic-Report) and click "Install" button on left panel.
 3. Open Katalon Studio and click on "Reload Plugin"
+![Reload_Plugin](https://github.com/Kharkare/NutriSpecTestCaseProject/blob/Images/Images/Repload_Plugin_2.gif)
 4. After the plugin installs run the Test suite again. The reports are generated within the Project under "Report" folder
 
 ### To email reports
