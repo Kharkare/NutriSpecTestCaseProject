@@ -5,17 +5,7 @@ This project is a Selenium project developed using [Katalon](https://www.katalon
 ## Setup
 
 1. Create an account on [Katalon](https://www.katalon.com/sign-up/)
-2. Sign in to your account and download the Katalon Studio IDE 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+2. Sign in to your account and download the [Katalon Studio IDE](https://www.katalon.com/download)
+3. Extract the zipped file contents to your desired location
+4. Move to the location where you extracted the zipped file and start Katalon
+5. Upon starting the IDE for the first time you will be asked to activate the IDE. Use your katalon account to activate the copy of your IDE. For detailed steps on activation and proxy settings(if applicable) please see [here](https://docs.katalon.com/katalon-studio/docs/katalon-studio-activation-since-70.html)
