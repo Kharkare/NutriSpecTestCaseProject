@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-12T10:51:45</date>
+  <millis>1581501105300</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Enroll_Add_Prescription_Suite/Enroll_Add_Prescription_Unroll</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">Enroll_Add_Prescription_Unroll</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Enroll_Add_Prescription_Suite/Enroll_Add_Prescription_Unroll</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:45</date>
+  <millis>1581501105317</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = kunal - kunal-HP-15-Notebook-PC</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">kunal - kunal-HP-15-Notebook-PC</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:45</date>
+  <millis>1581501105318</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Linux 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Linux 64bit</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:45</date>
+  <millis>1581501105318</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 127.0.1.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">127.0.1.1</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:45</date>
+  <millis>1581501105319</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 7.2.1.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">7.2.1.1</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:45</date>
+  <millis>1581501105603</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Client Test Case/Enroll_with_Nutritionist</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Client Test Case/Enroll_with_Nutritionist</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Client Test Case/Enroll_with_Nutritionist</property>
+  <property name="source">\\home\\kunal\\NutriSpec_Automated_Tests\\NutriSpec_Automated_Tests\\Test Cases\\Client Test Case\\Enroll_with_Nutritionist.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:45</date>
+  <millis>1581501105883</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;https://707namkp-xw6adrv.project.anyhost.it/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:46</date>
+  <millis>1581501106499</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:51:46</date>
+  <millis>1581501106689</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:51:54</date>
+  <millis>1581501114224</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = f3cdc42b-e270-4e06-8c3e-840bdb9f3d01</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">f3cdc42b-e270-4e06-8c3e-840bdb9f3d01</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:54</date>
+  <millis>1581501114305</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 69.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 69.0</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:54</date>
+  <millis>1581501114306</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Linux</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Linux</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:54</date>
+  <millis>1581501114307</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.141.59</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.141.59</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:54</date>
+  <millis>1581501114308</millis>
+  <sequence>17</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}</property>
+</record>
+<record>
+  <date>2020-02-12T10:51:58</date>
+  <millis>1581501118968</millis>
+  <sequence>19</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;https://707namkp-xw6adrv.project.anyhost.it/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:51:58</date>
+  <millis>1581501118969</millis>
+  <sequence>20</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;https://707namkp-xw6adrv.project.anyhost.it/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:51:58</date>
+  <millis>1581501118970</millis>
+  <sequence>21</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Client_Home/Client_Home_Menu\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">20</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:04</date>
+  <millis>1581501124139</millis>
+  <sequence>32</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Client_Home/Client_Home_Menu&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:04</date>
+  <millis>1581501124140</millis>
+  <sequence>33</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Client_Home/Client_Home_Menu\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:04</date>
+  <millis>1581501124141</millis>
+  <sequence>34</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_link\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:06</date>
+  <millis>1581501126366</millis>
+  <sequence>46</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_link&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:06</date>
+  <millis>1581501126367</millis>
+  <sequence>47</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_link\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:06</date>
+  <millis>1581501126367</millis>
+  <sequence>48</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_Enroll_button\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">24</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:10</date>
+  <millis>1581501130601</millis>
+  <sequence>60</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_Enroll_button&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:10</date>
+  <millis>1581501130602</millis>
+  <sequence>61</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_Enroll_button\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:10</date>
+  <millis>1581501130603</millis>
+  <sequence>62</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : pageContent = getText(findTestObject(\&amp;quot;Object Repository/Body_Content\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:11</date>
+  <millis>1581501131487</millis>
+  <sequence>71</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text of object &amp;apos;Object Repository/Body_Content&amp;apos; is: &amp;apos;This website uses cookies to ensure you get the best experience on our website.\nGot it!\nHome Page\nClient Home\n(current)\nNutritionist Home\nAbout Us\nContact Us\nNews\nLegal Information\nYou are have been enrolled successfully.\nWelcome Nikhil Gosavi\nSearch Nutritionists\nName\nDr Akil Baby\nEmail\nakil@gmail.com\nQualification\nMSc.\nRating\n3.0\nSpecialization\nSports  Animal \nName\nDr Lasoon Chivda\nEmail\nlassoonchivda@gmail.com\nQualification\nMSc.\nRating\n4.0\nSpecialization\nPublic health  Sports \nName\nDr Sudarshan Phule\nEmail\nsudarshan@hof-university.de\nQualification\nMSc.\nRating\n3.0\nSpecialization\nPublic health  Sports \nName\nDr Kunal Harkare\nEmail\nkunal@gmail.com\nQualification\nMSc.\nRating\n3.5\nSpecialization\nPublic health  Animal \nBlogs\nTest Blog 1\nAuthor: Kunal Harkare\nPublished on: 17. December 2019\nRead more..\nTest Blog 2\nAuthor: Nikhil Gosavi\nPublished on: 24. December 2019\nRead more..\nNew Nutritionist\nHome\nNews\nLegal Information\nContact Us\n\u00A9 2019 #NutriSpec-Typo3 Project Team&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:11</date>
+  <millis>1581501131489</millis>
+  <sequence>72</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : pageContent = getText(findTestObject(\&amp;quot;Object Repository/Body_Content\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:11</date>
+  <millis>1581501131491</millis>
+  <sequence>73</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : delay(2)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:13</date>
+  <millis>1581501133510</millis>
+  <sequence>75</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Delayed 2 second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:13</date>
+  <millis>1581501133511</millis>
+  <sequence>76</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : delay(2)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:13</date>
+  <millis>1581501133512</millis>
+  <sequence>77</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (pageContent.contains(\&amp;quot;enrolled successfully\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:13</date>
+  <millis>1581501133515</millis>
+  <sequence>78</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser()</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">29</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:16</date>
+  <millis>1581501136210</millis>
+  <sequence>80</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:16</date>
+  <millis>1581501136210</millis>
+  <sequence>81</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser()</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:16</date>
+  <millis>1581501136211</millis>
+  <sequence>82</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (pageContent.contains(\&amp;quot;enrolled successfully\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:16</date>
+  <millis>1581501136211</millis>
+  <sequence>83</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Client Test Case/Enroll_with_Nutritionist</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:16</date>
+  <millis>1581501136212</millis>
+  <sequence>84</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Client Test Case/Enroll_with_Nutritionist</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:16</date>
+  <millis>1581501136237</millis>
+  <sequence>85</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case</property>
+  <property name="description">Test case to test add prescribtion</property>
+  <property name="id">Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case</property>
+  <property name="source">\\home\\kunal\\NutriSpec_Automated_Tests\\NutriSpec_Automated_Tests\\Test Cases\\Nutrtionist Test Case\\Add_Prescribtion_Test_Case.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:16</date>
+  <millis>1581501136373</millis>
+  <sequence>87</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;https://707namkp-xw6adrv.project.anyhost.it/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:16</date>
+  <millis>1581501136380</millis>
+  <sequence>89</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:20</date>
+  <millis>1581501140646</millis>
+  <sequence>92</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 6335a5f1-f6b6-4735-9efc-cbcda89cede8</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">6335a5f1-f6b6-4735-9efc-cbcda89cede8</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:20</date>
+  <millis>1581501140659</millis>
+  <sequence>93</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 69.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 69.0</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:20</date>
+  <millis>1581501140659</millis>
+  <sequence>94</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Linux</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Linux</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:20</date>
+  <millis>1581501140660</millis>
+  <sequence>95</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.141.59</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.141.59</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:20</date>
+  <millis>1581501140660</millis>
+  <sequence>96</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:22</date>
+  <millis>1581501142147</millis>
+  <sequence>98</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;https://707namkp-xw6adrv.project.anyhost.it/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:22</date>
+  <millis>1581501142148</millis>
+  <sequence>99</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;https://707namkp-xw6adrv.project.anyhost.it/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:22</date>
+  <millis>1581501142148</millis>
+  <sequence>100</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Nutritionist_home\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:23</date>
+  <millis>1581501143447</millis>
+  <sequence>111</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Nutritionist_Home/Nutritionist_home&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:23</date>
+  <millis>1581501143449</millis>
+  <sequence>112</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Nutritionist_home\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:23</date>
+  <millis>1581501143449</millis>
+  <sequence>113</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Prescribe_Client/Add_Prescribtion\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:25</date>
+  <millis>1581501145060</millis>
+  <sequence>124</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Nutritionist_Home/Prescribe_Client/Add_Prescribtion&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:25</date>
+  <millis>1581501145061</millis>
+  <sequence>125</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Prescribe_Client/Add_Prescribtion\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:25</date>
+  <millis>1581501145061</millis>
+  <sequence>126</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_title\&amp;quot;), \&amp;quot;Test Title\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">23</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:25</date>
+  <millis>1581501145624</millis>
+  <sequence>137</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Test Title&amp;apos; is set on object &amp;apos;Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_title&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:25</date>
+  <millis>1581501145625</millis>
+  <sequence>138</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_title\&amp;quot;), \&amp;quot;Test Title\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:25</date>
+  <millis>1581501145626</millis>
+  <sequence>139</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_report\&amp;quot;), \&amp;quot;Test Report\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:25</date>
+  <millis>1581501145941</millis>
+  <sequence>150</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Test Report&amp;apos; is set on object &amp;apos;Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_report&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:25</date>
+  <millis>1581501145942</millis>
+  <sequence>151</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_report\&amp;quot;), \&amp;quot;Test Report\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:25</date>
+  <millis>1581501145943</millis>
+  <sequence>152</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_Button\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:28</date>
+  <millis>1581501148199</millis>
+  <sequence>164</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_Button&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:28</date>
+  <millis>1581501148200</millis>
+  <sequence>165</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_Button\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:28</date>
+  <millis>1581501148202</millis>
+  <sequence>166</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : pageContent = getText(findTestObject(\&amp;quot;Object Repository/Body_Content\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">29</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:28</date>
+  <millis>1581501148873</millis>
+  <sequence>175</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text of object &amp;apos;Object Repository/Body_Content&amp;apos; is: &amp;apos;This website uses cookies to ensure you get the best experience on our website.\nGot it!\nHome Page\nClient Home\nNutritionist Home\n(current)\nAbout Us\nContact Us\nNews\nLegal Information\nNew Prescription for client Nikhil Gosavi\nNew presciption submited for Nikhil Gosavi\nName:  Nikhil Gosavi\nEmail:  nikhilgosavi@gmail.com\nAge:  25\nHeight:  156\nWeight:  59\nBlood Group:  B+\nBMI:  24\nTitle\n\nReport\n\nHome\nNews\nLegal Information\nContact Us\n\u00A9 2019 #NutriSpec-Typo3 Project Team&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:28</date>
+  <millis>1581501148875</millis>
+  <sequence>176</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : pageContent = getText(findTestObject(\&amp;quot;Object Repository/Body_Content\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:28</date>
+  <millis>1581501148875</millis>
+  <sequence>177</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : delay(2)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">30</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:30</date>
+  <millis>1581501150877</millis>
+  <sequence>179</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Delayed 2 second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:30</date>
+  <millis>1581501150878</millis>
+  <sequence>180</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : delay(2)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:30</date>
+  <millis>1581501150879</millis>
+  <sequence>181</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (pageContent.contains(\&amp;quot;presciption submited\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">31</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:30</date>
+  <millis>1581501150879</millis>
+  <sequence>182</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser()</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">32</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:34</date>
+  <millis>1581501154350</millis>
+  <sequence>184</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:34</date>
+  <millis>1581501154351</millis>
+  <sequence>185</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser()</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:34</date>
+  <millis>1581501154351</millis>
+  <sequence>186</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (pageContent.contains(\&amp;quot;presciption submited\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:34</date>
+  <millis>1581501154351</millis>
+  <sequence>187</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:34</date>
+  <millis>1581501154352</millis>
+  <sequence>188</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:34</date>
+  <millis>1581501154356</millis>
+  <sequence>189</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Nutrtionist Test Case/Unroll_With_Client</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Nutrtionist Test Case/Unroll_With_Client</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Nutrtionist Test Case/Unroll_With_Client</property>
+  <property name="source">\\home\\kunal\\NutriSpec_Automated_Tests\\NutriSpec_Automated_Tests\\Test Cases\\Nutrtionist Test Case\\Unroll_With_Client.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:34</date>
+  <millis>1581501154491</millis>
+  <sequence>191</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;https://707namkp-xw6adrv.project.anyhost.it/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:34</date>
+  <millis>1581501154496</millis>
+  <sequence>193</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:38</date>
+  <millis>1581501158338</millis>
+  <sequence>196</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 0a67ff53-a94e-4174-9c10-c33a87fb8654</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">0a67ff53-a94e-4174-9c10-c33a87fb8654</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:38</date>
+  <millis>1581501158353</millis>
+  <sequence>197</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 69.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 69.0</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:38</date>
+  <millis>1581501158354</millis>
+  <sequence>198</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Linux</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Linux</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:38</date>
+  <millis>1581501158355</millis>
+  <sequence>199</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.141.59</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.141.59</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:38</date>
+  <millis>1581501158356</millis>
+  <sequence>200</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:39</date>
+  <millis>1581501159796</millis>
+  <sequence>202</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;https://707namkp-xw6adrv.project.anyhost.it/&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:39</date>
+  <millis>1581501159796</millis>
+  <sequence>203</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;https://707namkp-xw6adrv.project.anyhost.it/\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:39</date>
+  <millis>1581501159797</millis>
+  <sequence>204</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Nutritionist_home\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:41</date>
+  <millis>1581501161067</millis>
+  <sequence>215</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Nutritionist_Home/Nutritionist_home&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:41</date>
+  <millis>1581501161068</millis>
+  <sequence>216</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Nutritionist_home\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:41</date>
+  <millis>1581501161068</millis>
+  <sequence>217</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Unroll Client/Unroll_Client_Link\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:43</date>
+  <millis>1581501163532</millis>
+  <sequence>228</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Nutritionist_Home/Unroll Client/Unroll_Client_Link&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:43</date>
+  <millis>1581501163533</millis>
+  <sequence>229</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Nutritionist_Home/Unroll Client/Unroll_Client_Link\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:43</date>
+  <millis>1581501163533</millis>
+  <sequence>230</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : pageContent = getText(findTestObject(\&amp;quot;Object Repository/Body_Content\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:44</date>
+  <millis>1581501164188</millis>
+  <sequence>239</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text of object &amp;apos;Object Repository/Body_Content&amp;apos; is: &amp;apos;This website uses cookies to ensure you get the best experience on our website.\nGot it!\nHome Page\nClient Home\nNutritionist Home\n(current)\nAbout Us\nContact Us\nNews\nLegal Information\nWelcome Dr Sudarshan Phule\nClient disenrolled successfully.\nYour Clients\nBlogs\nTest Blog 1\nAuthor: Kunal Harkare\nPublished on: 17. December 2019\nRead more..\nTest Blog 2\nAuthor: Nikhil Gosavi\nPublished on: 24. December 2019\nRead more..\nHome\nNews\nLegal Information\nContact Us\n\u00A9 2019 #NutriSpec-Typo3 Project Team&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:44</date>
+  <millis>1581501164189</millis>
+  <sequence>240</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : pageContent = getText(findTestObject(\&amp;quot;Object Repository/Body_Content\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:44</date>
+  <millis>1581501164189</millis>
+  <sequence>241</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : delay(2)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:46</date>
+  <millis>1581501166192</millis>
+  <sequence>243</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Delayed 2 second(s)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:46</date>
+  <millis>1581501166192</millis>
+  <sequence>244</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : delay(2)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:46</date>
+  <millis>1581501166193</millis>
+  <sequence>245</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (pageContent.contains(\&amp;quot;Client disenrolled\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">28</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:46</date>
+  <millis>1581501166194</millis>
+  <sequence>246</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser()</message>
+  <nestedLevel>2</nestedLevel>
+  <property name="startLine">29</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-02-12T10:52:48</date>
+  <millis>1581501168861</millis>
+  <sequence>248</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:48</date>
+  <millis>1581501168861</millis>
+  <sequence>249</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser()</message>
+  <nestedLevel>2</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:48</date>
+  <millis>1581501168861</millis>
+  <sequence>250</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (pageContent.contains(\&amp;quot;Client disenrolled\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:48</date>
+  <millis>1581501168861</millis>
+  <sequence>251</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Nutrtionist Test Case/Unroll_With_Client</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:48</date>
+  <millis>1581501168862</millis>
+  <sequence>252</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Nutrtionist Test Case/Unroll_With_Client</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:48</date>
+  <millis>1581501168862</millis>
+  <sequence>253</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:49</date>
+  <millis>1581501169052</millis>
+  <sequence>467</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating HTML report folder at: /home/kunal/NutriSpec_Automated_Tests/NutriSpec_Automated_Tests/Reports/20200212_105142/Enroll_Add_Prescription_Suite/Enroll_Add_Prescription_Unroll/20200212_105142...</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:49</date>
+  <millis>1581501169071</millis>
+  <sequence>468</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HTML report generated</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:49</date>
+  <millis>1581501169072</millis>
+  <sequence>469</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating CSV report folder at: /home/kunal/NutriSpec_Automated_Tests/NutriSpec_Automated_Tests/Reports/20200212_105142/Enroll_Add_Prescription_Suite/Enroll_Add_Prescription_Unroll/20200212_105142...</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:49</date>
+  <millis>1581501169091</millis>
+  <sequence>470</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>CSV report generated</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:49</date>
+  <millis>1581501169092</millis>
+  <sequence>472</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-02-12T10:52:49</date>
+  <millis>1581501169189</millis>
+  <sequence>473</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/Enroll_Add_Prescription_Suite/Enroll_Add_Prescription_Unroll</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

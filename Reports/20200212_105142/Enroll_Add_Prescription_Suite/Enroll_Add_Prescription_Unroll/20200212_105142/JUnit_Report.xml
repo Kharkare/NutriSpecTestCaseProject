@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Enroll_Add_Prescription_Unroll" time="63.889" tests="3" failures="0" errors="0">
+   <testsuite name="Enroll_Add_Prescription_Unroll" tests="3" failures="0" errors="0" time="63.889" timestamp="2020-02-12 10:51:45" hostname="kunal - kunal-HP-15-Notebook-PC" id="Test Suites/Enroll_Add_Prescription_Suite/Enroll_Add_Prescription_Unroll">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/home/kunal/NutriSpec_Automated_Tests/NutriSpec_Automated_Tests/Reports/20200212_105142/Enroll_Add_Prescription_Suite/Enroll_Add_Prescription_Unroll/20200212_105142"/>
+         <property name="logFiles" value="/home/kunal/NutriSpec_Automated_Tests/NutriSpec_Automated_Tests/Reports/20200212_105142/Enroll_Add_Prescription_Suite/Enroll_Add_Prescription_Unroll/20200212_105142/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="kunal - kunal-HP-15-Notebook-PC"/>
+         <property name="os" value="Linux 64bit"/>
+         <property name="katalonVersion" value="7.2.1.1"/>
+         <property name="browser" value="Firefox 69.0"/>
+         <property name="hostAddress" value="127.0.1.1"/>
+         <property name="sessionId" value="0a67ff53-a94e-4174-9c10-c33a87fb8654"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Linux"/>
+      </properties>
+      <testcase name="Test Cases/Client Test Case/Enroll_with_Nutritionist" time="30.609" classname="Test Cases/Client Test Case/Enroll_with_Nutritionist" status="PASSED">
+         <system-out><![CDATA[2020-02-12 10:51:45 - [TEST_CASE][PASSED] - Test Cases/Client Test Case/Enroll_with_Nutritionist: Test Cases/Client Test Case/Enroll_with_Nutritionist
+
+2020-02-12 10:51:45 - [TEST_STEP][PASSED] - openBrowser("https://707namkp-xw6adrv.project.anyhost.it/"): Browser is opened with url: 'https://707namkp-xw6adrv.project.anyhost.it/'
+
+2020-02-12 10:51:46 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2020-02-12 10:51:46 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-02-12 10:51:58 - [MESSAGE][PASSED] - Browser is opened with url: 'https://707namkp-xw6adrv.project.anyhost.it/'
+
+2020-02-12 10:51:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Client_Home/Client_Home_Menu")): Object: 'Object Repository/Client_Home/Client_Home_Menu' is clicked on
+
+2020-02-12 10:52:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Client_Home/Client_Home_Menu' is clicked on
+
+2020-02-12 10:52:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_link")): Object: 'Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_link' is clicked on
+
+2020-02-12 10:52:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_link' is clicked on
+
+2020-02-12 10:52:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_Enroll_button")): Object: 'Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_Enroll_button' is clicked on
+
+2020-02-12 10:52:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_Enroll_button' is clicked on
+
+2020-02-12 10:52:10 - [TEST_STEP][PASSED] - pageContent = getText(findTestObject("Object Repository/Body_Content")): Text of object 'Object Repository/Body_Content' is: 'This website uses cookies to ensure you get the best experience on our website.
+Got it!
+Home Page
+Client Home
+(current)
+Nutritionist Home
+About Us
+Contact Us
+News
+Legal Information
+You are have been enrolled successfully.
+Welcome Nikhil Gosavi
+Search Nutritionists
+Name
+Dr Akil Baby
+Email
+akil@gmail.com
+Qualification
+MSc.
+Rating
+3.0
+Specialization
+Sports  Animal 
+Name
+Dr Lasoon Chivda
+Email
+lassoonchivda@gmail.com
+Qualification
+MSc.
+Rating
+4.0
+Specialization
+Public health  Sports 
+Name
+Dr Sudarshan Phule
+Email
+sudarshan@hof-university.de
+Qualification
+MSc.
+Rating
+3.0
+Specialization
+Public health  Sports 
+Name
+Dr Kunal Harkare
+Email
+kunal@gmail.com
+Qualification
+MSc.
+Rating
+3.5
+Specialization
+Public health  Animal 
+Blogs
+Test Blog 1
+Author: Kunal Harkare
+Published on: 17. December 2019
+Read more..
+Test Blog 2
+Author: Nikhil Gosavi
+Published on: 24. December 2019
+Read more..
+New Nutritionist
+Home
+News
+Legal Information
+Contact Us
+© 2019 #NutriSpec-Typo3 Project Team'
+
+2020-02-12 10:52:11 - [MESSAGE][PASSED] - Text of object 'Object Repository/Body_Content' is: 'This website uses cookies to ensure you get the best experience on our website.
+Got it!
+Home Page
+Client Home
+(current)
+Nutritionist Home
+About Us
+Contact Us
+News
+Legal Information
+You are have been enrolled successfully.
+Welcome Nikhil Gosavi
+Search Nutritionists
+Name
+Dr Akil Baby
+Email
+akil@gmail.com
+Qualification
+MSc.
+Rating
+3.0
+Specialization
+Sports  Animal 
+Name
+Dr Lasoon Chivda
+Email
+lassoonchivda@gmail.com
+Qualification
+MSc.
+Rating
+4.0
+Specialization
+Public health  Sports 
+Name
+Dr Sudarshan Phule
+Email
+sudarshan@hof-university.de
+Qualification
+MSc.
+Rating
+3.0
+Specialization
+Public health  Sports 
+Name
+Dr Kunal Harkare
+Email
+kunal@gmail.com
+Qualification
+MSc.
+Rating
+3.5
+Specialization
+Public health  Animal 
+Blogs
+Test Blog 1
+Author: Kunal Harkare
+Published on: 17. December 2019
+Read more..
+Test Blog 2
+Author: Nikhil Gosavi
+Published on: 24. December 2019
+Read more..
+New Nutritionist
+Home
+News
+Legal Information
+Contact Us
+© 2019 #NutriSpec-Typo3 Project Team'
+
+2020-02-12 10:52:11 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-02-12 10:52:13 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-02-12 10:52:13 - [TEST_STEP][PASSED] - if (pageContent.contains("enrolled successfully")): Browser is closed
+
+2020-02-12 10:52:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-02-12 10:52:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case" time="18.115" classname="Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case" status="PASSED">
+         <system-out><![CDATA[2020-02-12 10:52:16 - [TEST_CASE][PASSED] - Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case: Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case
+
+2020-02-12 10:52:16 - [TEST_STEP][PASSED] - openBrowser("https://707namkp-xw6adrv.project.anyhost.it/"): Browser is opened with url: 'https://707namkp-xw6adrv.project.anyhost.it/'
+
+2020-02-12 10:52:16 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2020-02-12 10:52:22 - [MESSAGE][PASSED] - Browser is opened with url: 'https://707namkp-xw6adrv.project.anyhost.it/'
+
+2020-02-12 10:52:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Nutritionist_Home/Nutritionist_home")): Object: 'Object Repository/Nutritionist_Home/Nutritionist_home' is clicked on
+
+2020-02-12 10:52:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Nutritionist_Home/Nutritionist_home' is clicked on
+
+2020-02-12 10:52:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Nutritionist_Home/Prescribe_Client/Add_Prescribtion")): Object: 'Object Repository/Nutritionist_Home/Prescribe_Client/Add_Prescribtion' is clicked on
+
+2020-02-12 10:52:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Nutritionist_Home/Prescribe_Client/Add_Prescribtion' is clicked on
+
+2020-02-12 10:52:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_title"), "Test Title"): Text 'Test Title' is set on object 'Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_title'
+
+2020-02-12 10:52:25 - [MESSAGE][PASSED] - Text 'Test Title' is set on object 'Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_title'
+
+2020-02-12 10:52:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_report"), "Test Report"): Text 'Test Report' is set on object 'Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_report'
+
+2020-02-12 10:52:25 - [MESSAGE][PASSED] - Text 'Test Report' is set on object 'Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_report'
+
+2020-02-12 10:52:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_Button")): Object: 'Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_Button' is clicked on
+
+2020-02-12 10:52:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_Button' is clicked on
+
+2020-02-12 10:52:28 - [TEST_STEP][PASSED] - pageContent = getText(findTestObject("Object Repository/Body_Content")): Text of object 'Object Repository/Body_Content' is: 'This website uses cookies to ensure you get the best experience on our website.
+Got it!
+Home Page
+Client Home
+Nutritionist Home
+(current)
+About Us
+Contact Us
+News
+Legal Information
+New Prescription for client Nikhil Gosavi
+New presciption submited for Nikhil Gosavi
+Name:  Nikhil Gosavi
+Email:  nikhilgosavi@gmail.com
+Age:  25
+Height:  156
+Weight:  59
+Blood Group:  B+
+BMI:  24
+Title
+
+Report
+
+Home
+News
+Legal Information
+Contact Us
+© 2019 #NutriSpec-Typo3 Project Team'
+
+2020-02-12 10:52:28 - [MESSAGE][PASSED] - Text of object 'Object Repository/Body_Content' is: 'This website uses cookies to ensure you get the best experience on our website.
+Got it!
+Home Page
+Client Home
+Nutritionist Home
+(current)
+About Us
+Contact Us
+News
+Legal Information
+New Prescription for client Nikhil Gosavi
+New presciption submited for Nikhil Gosavi
+Name:  Nikhil Gosavi
+Email:  nikhilgosavi@gmail.com
+Age:  25
+Height:  156
+Weight:  59
+Blood Group:  B+
+BMI:  24
+Title
+
+Report
+
+Home
+News
+Legal Information
+Contact Us
+© 2019 #NutriSpec-Typo3 Project Team'
+
+2020-02-12 10:52:28 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-02-12 10:52:30 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-02-12 10:52:30 - [TEST_STEP][PASSED] - if (pageContent.contains("presciption submited")): Browser is closed
+
+2020-02-12 10:52:30 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-02-12 10:52:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Nutrtionist Test Case/Unroll_With_Client" time="14.506" classname="Test Cases/Nutrtionist Test Case/Unroll_With_Client" status="PASSED">
+         <system-out><![CDATA[2020-02-12 10:52:34 - [TEST_CASE][PASSED] - Test Cases/Nutrtionist Test Case/Unroll_With_Client: Test Cases/Nutrtionist Test Case/Unroll_With_Client
+
+2020-02-12 10:52:34 - [TEST_STEP][PASSED] - openBrowser("https://707namkp-xw6adrv.project.anyhost.it/"): Browser is opened with url: 'https://707namkp-xw6adrv.project.anyhost.it/'
+
+2020-02-12 10:52:34 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2020-02-12 10:52:39 - [MESSAGE][PASSED] - Browser is opened with url: 'https://707namkp-xw6adrv.project.anyhost.it/'
+
+2020-02-12 10:52:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Nutritionist_Home/Nutritionist_home")): Object: 'Object Repository/Nutritionist_Home/Nutritionist_home' is clicked on
+
+2020-02-12 10:52:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Nutritionist_Home/Nutritionist_home' is clicked on
+
+2020-02-12 10:52:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Nutritionist_Home/Unroll Client/Unroll_Client_Link")): Object: 'Object Repository/Nutritionist_Home/Unroll Client/Unroll_Client_Link' is clicked on
+
+2020-02-12 10:52:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Nutritionist_Home/Unroll Client/Unroll_Client_Link' is clicked on
+
+2020-02-12 10:52:43 - [TEST_STEP][PASSED] - pageContent = getText(findTestObject("Object Repository/Body_Content")): Text of object 'Object Repository/Body_Content' is: 'This website uses cookies to ensure you get the best experience on our website.
+Got it!
+Home Page
+Client Home
+Nutritionist Home
+(current)
+About Us
+Contact Us
+News
+Legal Information
+Welcome Dr Sudarshan Phule
+Client disenrolled successfully.
+Your Clients
+Blogs
+Test Blog 1
+Author: Kunal Harkare
+Published on: 17. December 2019
+Read more..
+Test Blog 2
+Author: Nikhil Gosavi
+Published on: 24. December 2019
+Read more..
+Home
+News
+Legal Information
+Contact Us
+© 2019 #NutriSpec-Typo3 Project Team'
+
+2020-02-12 10:52:44 - [MESSAGE][PASSED] - Text of object 'Object Repository/Body_Content' is: 'This website uses cookies to ensure you get the best experience on our website.
+Got it!
+Home Page
+Client Home
+Nutritionist Home
+(current)
+About Us
+Contact Us
+News
+Legal Information
+Welcome Dr Sudarshan Phule
+Client disenrolled successfully.
+Your Clients
+Blogs
+Test Blog 1
+Author: Kunal Harkare
+Published on: 17. December 2019
+Read more..
+Test Blog 2
+Author: Nikhil Gosavi
+Published on: 24. December 2019
+Read more..
+Home
+News
+Legal Information
+Contact Us
+© 2019 #NutriSpec-Typo3 Project Team'
+
+2020-02-12 10:52:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2020-02-12 10:52:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2020-02-12 10:52:46 - [TEST_STEP][PASSED] - if (pageContent.contains("Client disenrolled")): Browser is closed
+
+2020-02-12 10:52:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-02-12 10:52:48 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-02-12 10:51:45 - [TEST_SUITE][PASSED] - Enroll_Add_Prescription_Unroll: Test Cases/Nutrtionist Test Case/Unroll_With_Client]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

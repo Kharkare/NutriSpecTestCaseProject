@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Enroll_Add_Prescription_Unroll,Firefox 69.0,,,2020-02-12 10:51:45,2020-02-12 10:52:48,1m - 3.562s,PASSED
+,,,,,,,
+Test Cases/Client Test Case/Enroll_with_Nutritionist,Firefox 69.0,,,2020-02-12 10:51:45,2020-02-12 10:52:16,30.609s,PASSED
+"openBrowser(""https://707namkp-xw6adrv.project.anyhost.it/"")",Firefox 69.0,,,2020-02-12 10:51:45,2020-02-12 10:51:58,13.086s,PASSED
+"click(findTestObject(""Object Repository/Client_Home/Client_Home_Menu""))",Firefox 69.0,,,2020-02-12 10:51:58,2020-02-12 10:52:04,5.170s,PASSED
+"click(findTestObject(""Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_link""))",Firefox 69.0,,,2020-02-12 10:52:04,2020-02-12 10:52:06,2.226s,PASSED
+"click(findTestObject(""Object Repository/Client_Home/Enroll_With_Nutritionist/Nutritionist_Enroll_button""))",Firefox 69.0,,,2020-02-12 10:52:06,2020-02-12 10:52:10,4.235s,PASSED
+"pageContent = getText(findTestObject(""Object Repository/Body_Content""))",Firefox 69.0,,,2020-02-12 10:52:10,2020-02-12 10:52:11,0.886s,PASSED
+delay(2),Firefox 69.0,,,2020-02-12 10:52:11,2020-02-12 10:52:13,2.020s,PASSED
+"if (pageContent.contains(""enrolled successfully""))",Firefox 69.0,,,2020-02-12 10:52:13,2020-02-12 10:52:16,2.699s,PASSED
+,,,,,,,
+Test Cases/Nutrtionist Test Case/Add_Prescribtion_Test_Case,Firefox 69.0,Test case to test add prescribtion,,2020-02-12 10:52:16,2020-02-12 10:52:34,18.115s,PASSED
+"openBrowser(""https://707namkp-xw6adrv.project.anyhost.it/"")",Firefox 69.0,,,2020-02-12 10:52:16,2020-02-12 10:52:22,5.775s,PASSED
+"click(findTestObject(""Object Repository/Nutritionist_Home/Nutritionist_home""))",Firefox 69.0,,,2020-02-12 10:52:22,2020-02-12 10:52:23,1.301s,PASSED
+"click(findTestObject(""Object Repository/Nutritionist_Home/Prescribe_Client/Add_Prescribtion""))",Firefox 69.0,,,2020-02-12 10:52:23,2020-02-12 10:52:25,1.612s,PASSED
+"setText(findTestObject(""Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_title""), ""Test Title"")",Firefox 69.0,,,2020-02-12 10:52:25,2020-02-12 10:52:25,0.564s,PASSED
+"setText(findTestObject(""Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_report""), ""Test Report"")",Firefox 69.0,,,2020-02-12 10:52:25,2020-02-12 10:52:25,0.316s,PASSED
+"click(findTestObject(""Object Repository/Nutritionist_Home/Prescribe_Client/Prescribe_Button""))",Firefox 69.0,,,2020-02-12 10:52:25,2020-02-12 10:52:28,2.257s,PASSED
+"pageContent = getText(findTestObject(""Object Repository/Body_Content""))",Firefox 69.0,,,2020-02-12 10:52:28,2020-02-12 10:52:28,0.673s,PASSED
+delay(2),Firefox 69.0,,,2020-02-12 10:52:28,2020-02-12 10:52:30,2.003s,PASSED
+"if (pageContent.contains(""presciption submited""))",Firefox 69.0,,,2020-02-12 10:52:30,2020-02-12 10:52:34,3.472s,PASSED
+,,,,,,,
+Test Cases/Nutrtionist Test Case/Unroll_With_Client,Firefox 69.0,,,2020-02-12 10:52:34,2020-02-12 10:52:48,14.506s,PASSED
+"openBrowser(""https://707namkp-xw6adrv.project.anyhost.it/"")",Firefox 69.0,,,2020-02-12 10:52:34,2020-02-12 10:52:39,5.305s,PASSED
+"click(findTestObject(""Object Repository/Nutritionist_Home/Nutritionist_home""))",Firefox 69.0,,,2020-02-12 10:52:39,2020-02-12 10:52:41,1.271s,PASSED
+"click(findTestObject(""Object Repository/Nutritionist_Home/Unroll Client/Unroll_Client_Link""))",Firefox 69.0,,,2020-02-12 10:52:41,2020-02-12 10:52:43,2.465s,PASSED
+"pageContent = getText(findTestObject(""Object Repository/Body_Content""))",Firefox 69.0,,,2020-02-12 10:52:43,2020-02-12 10:52:44,0.656s,PASSED
+delay(2),Firefox 69.0,,,2020-02-12 10:52:44,2020-02-12 10:52:46,2.003s,PASSED
+"if (pageContent.contains(""Client disenrolled""))",Firefox 69.0,,,2020-02-12 10:52:46,2020-02-12 10:52:48,2.668s,PASSED
