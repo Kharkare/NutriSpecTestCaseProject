@@ -15,7 +15,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('http://nutrition-web.ddev.site/');
+WebUI.openBrowser('https://707namkp-xw6adrv.project.anyhost.it/');
 
 WebUI.click(findTestObject('Object Repository/Client_Home/Client_Home_Menu'));
 
