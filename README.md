@@ -2,11 +2,6 @@
 
 This project is a Selenium project developed using [Katalon](https://www.katalon.com/) which is a part of [NutriSpec](https://github.com/nikhilgosavi007/nutrition-web) project developed in TYPO3.
 
-## Prerequisites
-
-This project assumes NutriSpec is up and running in local ddev environment.
-
-
 ## Setup
 
 1. Create an account on [Katalon](https://www.katalon.com/sign-up/)
